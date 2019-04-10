@@ -8,6 +8,8 @@ Home Page: https://sites.google.com/view/quantum-matters/home
 2. [Introduction to Topological Orders](#) Chen Fang
 3. [Tensor Network Contraction](/slides/TensorContraction.pdf) Jin-Guo Liu
 
+To update slides, either give us a PR or send me an email: cacate0129@gmail.com
+
 
 ## Chair
 Yuan Wan,
